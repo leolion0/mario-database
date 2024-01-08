@@ -52,3 +52,4 @@ git commit -m "Init commit"
 git remote add origin https://github.com/leolion0/mario-database.git
 git remote -v
 git push origin master
+git status
