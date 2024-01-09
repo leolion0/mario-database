@@ -54,3 +54,5 @@ git remote -v
 git push origin master
 git status
 psql --username=freecodecamp --dbname=postgres
+git status
+git add .
