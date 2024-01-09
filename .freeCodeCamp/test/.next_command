@@ -56,3 +56,6 @@ git status
 psql --username=freecodecamp --dbname=postgres
 git status
 git add .
+git commit "40% completed"
+git commit -m "40% completed"
+git add .
